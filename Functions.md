@@ -4,9 +4,11 @@
 
 ### Complete:
 
+```
 functionName = <arg1, arg2... argN> <- {
 
 }
+```
 
 ### No args:
 
