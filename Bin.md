@@ -32,7 +32,7 @@ OR
 *newBin<startIndex, endIndex, stepCount, callBack>
 ```
 
-##Get (Must be loaded)
+## Get (Must be loaded)
 
 ```
 newBin.getByKey<key>
